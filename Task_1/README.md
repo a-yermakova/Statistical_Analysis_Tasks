@@ -19,7 +19,7 @@ $P_{a}(\hat{a}-\frac{\xi_{1-\frac{\alpha}{2}}\cdot\sigma}{\sqrt{n}} < a < \hat{a
 
 $a\in(\hat{a}-\frac{\xi_{1-\frac{\alpha}{2}}\cdot\sigma}{\sqrt{n}},\hat{a}+\frac{\xi_{1-\frac{\alpha}{2}}\cdot\sigma}{\sqrt{n}})$
 
-2. Равномерное распределение
+### Равномерное распределение
 U[7;11]
 $\hat{a} = \frac{x_{(1)}+x_{(n)}}{2}$
 
@@ -31,7 +31,7 @@ $n\frac{x_{(1)}+x_{(n)}-2a}{d}\sim L(0,1)$
 
 $P_{a}(-\lambda_{1-\frac{\alpha}{2}}<\frac{x_{(1)}+x_{(n)}-2a}{d}<\lambda_{1-\frac{\alpha}{2}})=\gamma$
 
-$P_{a}(\frac{x_{(1)}+x_{(n)}-\frac{d}{n}\lambda_{1-\frac{\alpha}{2}}}{2} <a<\frac{x_{(1)}+x_{(n)}+\frac{d}{n}\lambda_{1-\frac{\alpha}{2}}}{2} )=\gamma$
+$P_{a}(\frac{x_{(1)}+x_{(n)}-\frac{d}{n}\lambda_{1-\frac{\alpha}{2}}}{2} < a < \frac{x_{(1)}+x_{(n)}+\frac{d}{n}\lambda_{1-\frac{\alpha}{2}}}{2} )=\gamma$
 
 $a\in(\frac{x_{(1)}+x_{(n)}-\frac{d}{n}\lambda_{1-\frac{\alpha}{2}}}{2},\frac{x_{(1)}+x_{(n)}+\frac{d}{n}\lambda_{1-\frac{\alpha}{2}}}{2})$
 
